@@ -1,0 +1,14 @@
+{
+  "name": "svelte-hydration",
+  "scripts": {
+    "dev": "vite"
+  },
+  "type": "module",
+  "dependencies": {
+    "@sveltejs/vite-plugin-svelte": "^3.0.2",
+    "vite": "^5.0.12"
+  },
+  "devDependencies": {
+    "svelte": "^5.0.0-next.45"
+  }
+}
